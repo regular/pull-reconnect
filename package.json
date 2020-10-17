@@ -1,11 +1,11 @@
 {
   "name": "pull-reconnect",
-  "description": "",
+  "description": "a reconnect with pull-streams, useful with muxrpc",
   "version": "0.1.0",
-  "homepage": "https://github.com/dominictarr/pull-reconnect",
+  "homepage": "https://github.com/regular/pull-reconnect",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dominictarr/pull-reconnect.git"
+    "url": "git://github.com/regular/pull-reconnect.git"
   },
   "dependencies": {
     "pull-defer": "^0.2.2"
