@@ -1,7 +1,7 @@
 {
   "name": "pull-reconnect",
   "description": "a reconnect with pull-streams, useful with muxrpc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/regular/pull-reconnect",
   "repository": {
     "type": "git",
